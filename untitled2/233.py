@@ -57,6 +57,6 @@ def main():
     save_file(tel,address)
 
 if __name__ == '__main__':
-    arguments = docopt(__doc__)
+    main()
 
 
